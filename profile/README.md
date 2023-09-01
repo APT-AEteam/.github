@@ -15,4 +15,4 @@
 - [APT_MCU_SOLUTIONS](https://github.com/APT-AEteam/APT_MCU_SOLUTIONS.git)：是所有MCU应用方案的入口仓库。在这儿可以找到APT MCU的各类应用方案。
 - [APT32_MCU_STD_DEMO](https://github.com/APT-AEteam/APT32_MCU_STD_DEMO.git)：是所有std例程代码的入口仓库。在这儿可以找到各芯片的std例程代码。
 
-欢迎访问公司官网[APT](http://www.aptchip.com/)获取各种芯片资料。
+欢迎访问[APT公司官网](http://www.aptchip.com/)获取各种芯片资料。
