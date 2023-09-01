@@ -1,5 +1,5 @@
 
-![公司logo](https://github.com/APT-AEteam/.github/assets/106129119/af05aad0-a81d-4a2b-8746-e19d4b8d0e3b)  
+![image](https://github.com/APT-AEteam/.github/assets/106129119/e7b4bfdd-7dbc-469b-8835-18b36c8e6017)
 
 # 公司概况
 深圳市爱普特微电子有限公司（APT）成立于2012年，是一家专注于研发设计全国产、全自主可控、高可靠性32位微处理器芯片的高新技术企业，现已成长为智能家电、工业控制等领域全国产32位MCU领军企业。  
